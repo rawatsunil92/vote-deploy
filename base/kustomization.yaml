@@ -6,4 +6,4 @@ resources:
 images:
 - name: schoolofdevops/vote
   newName: surawat/vote
-  newTag: v2
+  newTag: 3efd7a5
